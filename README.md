@@ -1,3 +1,6 @@
+# My name is Thinh, I'm a software engineer intern
+# I would like to share my knowdledge 
+
 # 1. Introduction
 - Rails is Server Side Redering
 - Rails is a web framework built for the Ruby programming language.
